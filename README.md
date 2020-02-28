@@ -31,7 +31,7 @@ Para acessar a página acesse `localhost:8080`
       
 ou
 
-docker-compose -f docker-compose-php7.2 down # executa o docker-compose.yml
+docker-compose -f docker-compose-php7.2.yml down # executa o docker-compose.yml
 ```   
 
 # Estrutura:
