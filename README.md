@@ -11,7 +11,7 @@ git clone https://github.com/srssaulo/moodle-dev-env.git
 
 ### Dentro da pasta html, faça:
 ```git
-git clone https://github.com/SrtaEnne/moodle-dev-env.git
+git clone https://github.com/nataly-enne/moodle-compose.git
 ```
 
 ### Na raiz do projeto, faça:
