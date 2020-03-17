@@ -20,7 +20,7 @@ git clone https://github.com/nataly-enne/moodle-compose.git
 
 ou
 
-docker-compose  -f docker-compose-php5.6.yml up -d # executa o docker-compose.yml
+docker-compose  -f docker-compose-php7.2.yml up -d # executa o docker-compose.yml
 ```
 
 Para acessar a página acesse `localhost:8080`
